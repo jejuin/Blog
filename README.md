@@ -5,4 +5,5 @@
 ## JavaScript 系列
 1. [编译原理之基础篇](https://github.com/jeuino/Blog/issues/1)
 2. [JavaScript 是如何执行代码的](https://github.com/jeuino/Blog/issues/2)
-3. [JavaScript 之执行上下文](https://github.com/jeuino/Blog/issues/3)
+3. [JavaScript 之变量对象](https://github.com/jeuino/Blog/issues/3)
+4. [JavaScript 之执行上下文](https://github.com/jeuino/Blog/issues/4)
