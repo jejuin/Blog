@@ -4,7 +4,7 @@
 - [segmentfault 主页](https://segmentfault.com/u/ieun)
 ## JavaScript 系列
 ### Part One —— JavaScript 代码是如何执行的
-
+1. [JavaScript 之词法分析和语法分析](https://github.com/jeuino/Blog/issues/1)
 
 
 
