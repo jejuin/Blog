@@ -8,8 +8,8 @@
 2. [JavaScript 之执行上下文](https://github.com/jeuino/Blog/issues/2)
 3. [JavaScript 之变量对象和内存空间]() (敬请期待)
 
-## 面试题系列
+## 工作总结系列
 敬请期待
 
-## 工作总结系列
+## 面试题系列
 敬请期待
