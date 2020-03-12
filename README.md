@@ -6,10 +6,4 @@
 ### 一、JavaScript 代码是如何执行的
 1. [JavaScript 之词法分析和语法分析](https://github.com/jeuino/Blog/issues/1)
 2. [JavaScript 之执行上下文](https://github.com/jeuino/Blog/issues/2)
-3. [JavaScript 之变量对象和内存空间]() (敬请期待)
-
-## 工作总结系列
-敬请期待
-
-## 面试题系列
-敬请期待
+3. [JavaScript 之内存空间和变量对象](https://github.com/jeuino/Blog/issues/3)
