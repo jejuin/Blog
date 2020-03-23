@@ -1,4 +1,4 @@
-# 君前的博客
+# Jojo的博客
 ## 其他专栏
 - [掘金主页](https://juejin.im/user/5e17fc506fb9a02fff07946d)
 - [segmentfault 主页](https://segmentfault.com/u/ieun)
