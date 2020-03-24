@@ -12,6 +12,7 @@
 1. [JavaScript 从下载到执行（阻塞、defer、async）](https://github.com/jeuino/Blog/issues/5)
 2. [JavaScript 引擎（V8）是如何工作的](https://github.com/jeuino/Blog/issues/6)
 3. [JavaScript 之执行上下文](https://github.com/jeuino/Blog/issues/7)
+4. [JavaScript 之作用域与作用域链](https://github.com/jeuino/Blog/issues/8)
 
 ## @TODO
-博客：JavaScript 之作用域与作用域链
+博客：JavaScript 之内存空间
