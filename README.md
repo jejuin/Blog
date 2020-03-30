@@ -17,6 +17,7 @@
 6. [JavaScript 之变量对象](https://github.com/jeuino/Blog/issues/10)
 7. [JavaScript 之this关键字](https://github.com/jeuino/Blog/issues/11)
 8. [JavaScript 之执行上下文的生命周期](https://github.com/jeuino/Blog/issues/12)
+9. [JavaScript 之自然的闭包](https://github.com/jeuino/Blog/issues/13)
 
 ## @TODO
-博客：JavaScript 之闭包
+正在规划...
