@@ -19,5 +19,7 @@
 8. [JavaScript 之执行上下文的生命周期](https://github.com/jeuino/Blog/issues/12)
 9. [JavaScript 之自然的闭包](https://github.com/jeuino/Blog/issues/13)
 
+## ECMAScript 系列
+因为本人最近正在阅读并学习 ECMAScript 规范，所以开此系列记录学习成果。 :smirk:
 ## @TODO
-正在规划...
+[ES1-ES10]：JavaScript 之关键字、保留字、标识符
