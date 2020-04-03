@@ -8,7 +8,6 @@
 - [掘金主页](https://juejin.im/user/5e17fc506fb9a02fff07946d)
 - [segmentfault 主页](https://segmentfault.com/u/ieun)
 ## JavaScript 系列
-### JavaScript 是如何工作的
 1. [JavaScript 从下载到执行（阻塞、defer、async）](https://github.com/jeuino/Blog/issues/5)
 2. [JavaScript 引擎（V8）是如何工作的](https://github.com/jeuino/Blog/issues/6)
 3. [JavaScript 之执行上下文](https://github.com/jeuino/Blog/issues/7)
@@ -19,7 +18,7 @@
 8. [JavaScript 之执行上下文的生命周期](https://github.com/jeuino/Blog/issues/12)
 9. [JavaScript 之自然的闭包](https://github.com/jeuino/Blog/issues/13)
 
-### ECMAScript 系列
+## ECMAScript 系列
 因为本人最近正在阅读并学习 ECMAScript 规范，所以开此系列记录学习成果。 :smirk:
 ## @TODO
 [ES1-ES10]：JavaScript 之关键字、保留字、标识符
