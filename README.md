@@ -20,6 +20,6 @@
 
 ## ECMAScript 系列
 因为本人最近正在阅读并学习 ECMAScript 规范，所以开此系列记录学习成果。 :smirk:
-### 1.ECMAScript 1.1997 解读
+### 1、ECMAScript 1.1997 解读
 
 
