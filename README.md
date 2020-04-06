@@ -20,5 +20,6 @@
 
 ## ECMAScript 系列
 因为本人最近正在阅读并学习 ECMAScript 规范，所以开此系列记录学习成果。 :smirk:
-## @TODO
-[ES1-ES10]：JavaScript 之关键字、保留字、标识符
+### ECMAScript1.1997 解读
+
+
