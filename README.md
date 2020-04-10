@@ -7,6 +7,7 @@
 ## 其他专栏
 - [掘金主页](https://juejin.im/user/5e17fc506fb9a02fff07946d)
 - [segmentfault 主页](https://segmentfault.com/u/ieun)
+
 ## JavaScript 系列
 1. [JavaScript 从下载到执行（阻塞、defer、async）](https://github.com/jeuino/Blog/issues/5)
 2. [JavaScript 引擎（V8）是如何工作的](https://github.com/jeuino/Blog/issues/6)
@@ -21,5 +22,6 @@
 ## ECMAScript 系列
 因为本人最近正在阅读并学习 ECMAScript 规范，所以开此系列记录学习成果。 :smirk:
 ### 1、ECMAScript 1（1997） 规范解读
+@todo ECMAScript1 规范解读：类型之 Object Type
 
 
