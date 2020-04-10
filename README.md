@@ -22,6 +22,9 @@
 ## ECMAScript 系列
 因为本人最近正在阅读并学习 ECMAScript 规范，所以开此系列记录学习成果。 :smirk:
 ### 1、ECMAScript 1（1997） 规范解读
-@todo ECMAScript1 规范解读：类型之 Object Type
+1. ECMAScript1 规范解读：类型之 Object Type
+
+## @TODO
+ECMAScript1 规范解读：类型转换
 
 
