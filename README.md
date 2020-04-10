@@ -21,10 +21,10 @@
 
 ## ECMAScript 系列
 因为本人最近正在阅读并学习 ECMAScript 规范，所以开此系列记录学习成果。 :smirk:
-### ECMAScript 1（1997） 规范解读
-1. [ECMAScript1 规范解读：类型之 Object Type](https://github.com/jeuino/Blog/issues/14)
+
+1. [ECMAScript 规范解读：类型之 Object Type](https://github.com/jeuino/Blog/issues/14)
 
 ## @TODO
-ECMAScript1 规范解读：类型转换
+ECMAScript 规范解读：类型之 Object Type ——【ES5-ES10】
 
 
