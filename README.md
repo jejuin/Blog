@@ -9,6 +9,4 @@
 
 ## ECMAScript 系列
 **一、数据类型与值**<br>
-ECMAScript 中共定义了 **7** 种语言类型：Undefined, Null, Boolean, String, Symbol, Number, Object。<br>
-其中 Undefined, Null, Boolean, String, Symbol, Number **6** 种类型被称为**基本（简单）数据类型**；而 Object 被称为**复杂数据类型**。<br>
-1> @todo Null 与 Undefined 的区别
+
