@@ -10,4 +10,4 @@
 ## ECMAScript 系列
 一、数据类型与值
 
-
+https://github.com/jeuino/Blog/blob/master/images/wechat.png
