@@ -5,7 +5,7 @@
 
 ## 其他专栏
 - [掘金主页](https://juejin.im/user/5e17fc506fb9a02fff07946d)
-- 微信公众号：JOJO的前端冒险（二维码）
+- 微信公众号：https://github.com/jeuino/Blog/blob/master/images/wechat.png
 
 ## ECMAScript 系列
 一、数据类型与值
