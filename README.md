@@ -9,4 +9,4 @@
 
 ## ECMAScript 系列
 **一、数据类型与值**<br>
-
+1.[ECMAScript 之数据类型与值](https://github.com/jeuino/Blog/issues/15)
