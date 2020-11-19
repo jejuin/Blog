@@ -4,5 +4,5 @@
 如果博客内容有描述不正确的地方，还请指正！如果文章对你有所帮助，还请给个 Star 哦，十分感谢！
 
 ## 其他专栏
-- [segmentfault](https://segmentfault.com/u/jeuin/articles)
+- [简书](https://www.jianshu.com/u/08e3501ff8fb)
 
