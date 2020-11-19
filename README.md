@@ -14,6 +14,8 @@
 ES3 后的每个版本都会开一个独立的专题记录。
 
 ## 基础专题
+[1. JavaScript 简介（背景）](https://github.com/jejuin/Blog/issues/16)
+
 ## ES5 专题
 @TODO
 ## ES6 专题
