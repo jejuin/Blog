@@ -18,3 +18,5 @@ ES3 后的每个版本都会开一个独立的专题记录。
 
 [2. ECMAScript 超基础语法汇总](https://github.com/jejuin/Blog/issues/17)
 
+[3. ECMAScript 之数据类型](https://github.com/jejuin/Blog/issues/18)
+
