@@ -20,3 +20,5 @@ ES3 后的每个版本都会开一个独立的专题记录。
 
 [3. ECMAScript 之数据类型](https://github.com/jejuin/Blog/issues/18)
 
+[4. ECMAScript 之数据类型转换](https://github.com/jejuin/Blog/issues/19)
+
