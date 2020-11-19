@@ -20,7 +20,7 @@
 
 [3. ECMAScript 之数据类型](https://github.com/jejuin/Blog/issues/18)
 
-[4. ECMAScript 之数据类型转换上](https://github.com/jejuin/Blog/issues/19)
+[4. ECMAScript 之数据类型转换（上）](https://github.com/jejuin/Blog/issues/19)
 
-[5. ECMAScript 之数据类型转换下](https://github.com/jejuin/Blog/issues/20)
+[5. ECMAScript 之数据类型转换（下）](https://github.com/jejuin/Blog/issues/20)
 
