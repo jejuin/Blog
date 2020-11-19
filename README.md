@@ -9,9 +9,9 @@
 # JavaScript
 深入 ECMAScript 规范，学习 JavaScript，了解底层原理。
 
-**JavaScript 系列基础专题**：关联规范版本 ES1-ES3。
+- **JavaScript 系列基础专题**：关联规范版本 ES1-ES3。
 
-ES3 后的每个版本都会开一个独立的专题记录。
+- ES3 后的每个版本都会开一个独立的专题记录。
 
 ## 基础专题
 [1. JavaScript 简介（背景）](https://github.com/jejuin/Blog/issues/16)
