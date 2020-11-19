@@ -6,5 +6,6 @@
 ## 其他专栏
 - [简书](https://www.jianshu.com/u/08e3501ff8fb)
 
-# JavaScript 系列
-## 深入 ECMAScript 学习 JavaScript
+# JavaScript
+## JavaScript 基础专题
+深入 ECMAScript 规范，学习 JavaScript，了解底层原理。
