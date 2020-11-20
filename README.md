@@ -28,4 +28,5 @@
 
 [7. ECMAScript 之执行上下文](https://github.com/jejuin/Blog/issues/22)
 
-
+## ES6
+[1. ES6 数据类型之Symbol]()
