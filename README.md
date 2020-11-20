@@ -11,13 +11,13 @@
 
 ### 数据类型专题
 
-[1. ECMAScript 之数据类型](https://github.com/jejuin/Blog/issues/18)
+1. [ES5 之数据类型](https://github.com/jejuin/Blog/issues/18)
 
-[2. ES6 数据类型之 Symbol](https://github.com/jejuin/Blog/issues/23)
+2. [ES6 数据类型之 Symbol](https://github.com/jejuin/Blog/issues/23)
 
-[3. ECMAScript 之数据类型转换（上）](https://github.com/jejuin/Blog/issues/19)
+3. [ECMAScript 之数据类型转换（上）](https://github.com/jejuin/Blog/issues/19)
 
-[4. ECMAScript 之数据类型转换（下）](https://github.com/jejuin/Blog/issues/20)
+4. [ECMAScript 之数据类型转换（下）](https://github.com/jejuin/Blog/issues/20)
 
-[5. ECMAScript 之原始数据类型包装对象](https://github.com/jejuin/Blog/issues/21)
+5. [ECMAScript 之原始数据类型包装对象](https://github.com/jejuin/Blog/issues/21)
 
