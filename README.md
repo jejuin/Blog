@@ -22,4 +22,6 @@
 
 [4. ECMAScript 之数据类型转换（上）](https://github.com/jejuin/Blog/issues/19)
 
+[5. ECMAScript 之数据类型转换（下）](https://github.com/jejuin/Blog/issues/20)
+
 
