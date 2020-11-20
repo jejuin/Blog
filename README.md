@@ -26,4 +26,6 @@
 
 [6. ECMAScript 之原始数据类型包装对象](https://github.com/jejuin/Blog/issues/21)
 
+[7. ECMAScript 之执行上下文](https://github.com/jejuin/Blog/issues/22)
+
 
