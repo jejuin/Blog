@@ -24,4 +24,6 @@
 
 [5. ECMAScript 之数据类型转换（下）](https://github.com/jejuin/Blog/issues/20)
 
+[6. ECMAScript 之原始数据类型包装对象](https://github.com/jejuin/Blog/issues/21)
+
 
