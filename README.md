@@ -9,24 +9,15 @@
 # JavaScript
 深入 ECMAScript 规范，学习 JavaScript，了解底层原理。
 
-- **JavaScript 系列基础专题**：关联规范版本 ES1-ES3。
+## 数据类型专题
 
-- ES3 后的每个版本都会开一个独立的专题记录。
+[1. ECMAScript 之数据类型](https://github.com/jejuin/Blog/issues/18)
 
-## 基础专题
-[1. JavaScript 简介（背景）](https://github.com/jejuin/Blog/issues/16)
+[2. ES6 数据类型之 Symbol](https://github.com/jejuin/Blog/issues/23)
 
-[2. ECMAScript 超基础语法汇总](https://github.com/jejuin/Blog/issues/17)
+[3. ECMAScript 之数据类型转换（上）](https://github.com/jejuin/Blog/issues/19)
 
-[3. ECMAScript 之数据类型](https://github.com/jejuin/Blog/issues/18)
+[4. ECMAScript 之数据类型转换（下）](https://github.com/jejuin/Blog/issues/20)
 
-[4. ECMAScript 之数据类型转换（上）](https://github.com/jejuin/Blog/issues/19)
+[5. ECMAScript 之原始数据类型包装对象](https://github.com/jejuin/Blog/issues/21)
 
-[5. ECMAScript 之数据类型转换（下）](https://github.com/jejuin/Blog/issues/20)
-
-[6. ECMAScript 之原始数据类型包装对象](https://github.com/jejuin/Blog/issues/21)
-
-[7. ECMAScript 之执行上下文](https://github.com/jejuin/Blog/issues/22)
-
-## ES6
-[1. ES6 数据类型之 Symbol](https://github.com/jejuin/Blog/issues/23)
