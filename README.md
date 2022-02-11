@@ -4,7 +4,7 @@
 如果博客内容有描述不正确的地方，还请指正！如果文章对你有所帮助，还请给个 Star 哦，十分感谢！
 
 ## 其他专栏
-- [简书](https://www.jianshu.com/u/08e3501ff8fb)
+- [掘金](https://juejin.cn/user/1063982988536238)
 
 ## JavaScript
 深入 ECMAScript 规范，学习 JavaScript，了解底层原理。
